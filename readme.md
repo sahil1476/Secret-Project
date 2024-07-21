@@ -1,4 +1,4 @@
-# Secret Sharing Project
+# 🤐🤐Secret Sharing Project🤐🤐
 
 This project is a web application built using Node.js, Express, and EJS. It allows users to register, log in, and submit anonymous secrets. The application uses Google OAuth for authentication and implements password encryption for added security.
 
@@ -10,7 +10,7 @@ This project is a web application built using Node.js, Express, and EJS. It allo
 - Submit anonymous secrets
 - View submitted secrets (optional or for admin users)
 
-## Technologies Used
+## Technologies Used 💻💻💻
 
 - Node.js
 - Express.js
@@ -34,8 +34,8 @@ Follow these instructions to set up the project on your local machine for develo
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/sahil1476/secret-sharing-project.git
-    cd secret-sharing-project
+    git clone https://github.com/sahil1476/Secret-Project.git
+    cd Secret-Project
     ```
 
 2. Install the dependencies:
@@ -49,11 +49,14 @@ Follow these instructions to set up the project on your local machine for develo
     Create a `.env` file in the root directory and add the following variables:
 
     ```plaintext
-    PORT=3000
-    DATABASE_URL=your_database_url
-    GOOGLE_CLIENT_ID=your_google_client_id
-    GOOGLE_CLIENT_SECRET=your_google_client_secret
-    SESSION_SECRET=your_session_secret
+    GOOGLE_CLIENT_ID="demo-id-1223456789-678876543.apps.googleusercontent.com"
+    GOOGLE_CLIENT_SECRET="aasdfghjklkjhgfdfghjkjhgfdfghjkjhg"
+    SESSION_SECRET="TOPSECRETWORD"
+    PG_USER="postgres"
+    PG_HOST="localhost"
+    PG_DATABASE="db_name"
+    PG_PASSWORD="abcdef"
+    PG_PORT="5432"
     ```
 
 4. Start the application:
@@ -73,3 +76,13 @@ Follow these instructions to set up the project on your local machine for develo
 ## Project Structure
 
 ![image](https://github.com/user-attachments/assets/f88ee11e-0407-4a26-8e67-579c10b6f921)
+
+
+## Acknowledgments
+
+- [Google Developers](https://developers.google.com/) for OAuth
+- [Passport.js](http://www.passportjs.org/) for authentication
+- [BCrypt](https://www.npmjs.com/package/bcrypt) for password hashing
+- [Express](https://expressjs.com/) for the web framework
+- [EJS](https://ejs.co/) for templating
+
