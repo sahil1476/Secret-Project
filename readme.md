@@ -5,9 +5,9 @@ This project is a web application built using Node.js, Express, and EJS. It allo
 ## Demo Video
 
 
-Click the button below to watch the demo video:
+Click the button below to watch:
 
-[![Check the Result](https://www.canva.com/design/DAGLeAARK4E/-BpYRE88vUjXLY1Qa8ygHQ/view)
+[![Check the Result](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://www.canva.com/design/DAGLeAARK4E/-BpYRE88vUjXLY1Qa8ygHQ/view)
 
 
 ## Features
