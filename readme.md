@@ -4,9 +4,11 @@ This project is a web application built using Node.js, Express, and EJS. It allo
 
 ## Demo Video
 
-Watch the demo video by clicking the link below:
 
-[![Demo Video](https://img.youtube.com/vi/your-video-id/0.jpg)](https://www.canva.com/design/DAGLeAARK4E/-BpYRE88vUjXLY1Qa8ygHQ/view)
+Click the button below to watch the demo video:
+
+[![Watch the video](https://github.com/your-username/your-repo/blob/main/assets/play-button.png)](https://www.canva.com/design/DAGLeAARK4E/-BpYRE88vUjXLY1Qa8ygHQ/view)
+
 
 ## Features
 
